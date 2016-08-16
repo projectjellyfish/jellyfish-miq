@@ -1,0 +1,2 @@
+class MiqPolicy < ApplicationPolicy
+end
